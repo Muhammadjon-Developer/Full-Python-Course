@@ -1,1 +1,0 @@
-print('Hello python') # print biron bir yozuvni terminalga chiqarish
